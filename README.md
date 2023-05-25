@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Feature: Create HUB Models from CLI or Python Script (#7316)
