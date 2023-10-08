@@ -1,1 +1,1 @@
-fix print val map
+Expand Model method type hinting (#8279)
